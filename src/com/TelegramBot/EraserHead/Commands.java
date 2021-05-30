@@ -100,13 +100,13 @@ public  class Commands extends TelegramLongPollingBot {
 	   public String getBotUsername() {
 	       // Return bot username
 	       // If bot username is @MyAmazingBot, it must return 'MyAmazingBot'
-	       return "xSaikatBot";
+	       return "java_test_albi_bot";
 	   }
 
 	   @Override
 	   public String getBotToken() {
 	       // Return bot token from BotFather
-	       return "1153525992:AAGLeLK-KcKkO2VPSm6Wk-q_cS8SaibRn9s";
+	       return "1889324176:AAGwAwO-92SkhQW8M4NPdUgRowZGCoXwBNU";
 	   }
   
 	   public void Waifu() {
